@@ -1,0 +1,15 @@
+------
+Start Production Date: Thursday, July 19, 2012 - 12:51:28 AM
+End Production Date: TBA
+
+Programming Delegations:
+
+    Subsystems:
+        Drivetrain = Shawn S.
+        Horse = Shawn S.
+        LowerConveyorBelt = Shawn S.
+        UpperConveyorBelt = Shawn S.
+        Shooter = Shawn S.
+        UpperLightSensor = Shawn S. //Not sure if still needed/still be used.
+
+    Commands:
